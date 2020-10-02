@@ -1,3 +1,7 @@
+## Backend of this frontend assessment is as follow
+backend of ghostpost api [ReST API](https://github.com/sohailADev/ghostpost_backend).
+
+In the project directory, you can run:
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
